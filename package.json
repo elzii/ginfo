@@ -1,0 +1,15 @@
+{
+  "name": "ginfo",
+  "version": "1.0.0",
+  "description": "read .git/config and give options",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Zizzo <alex@anagramgroup.com> (http://github.com/elzii)",
+  "license": "ISC",
+  "dependencies": {
+    "cat": "^0.2.0",
+    "chalk": "^1.0.0"
+  }
+}
